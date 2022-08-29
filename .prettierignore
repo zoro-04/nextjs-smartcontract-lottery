@@ -1,0 +1,8 @@
+node_module
+cache
+artifacts
+package.json
+.env
+
+README.md
+.next
